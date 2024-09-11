@@ -1,0 +1,67 @@
+Undefined option encountered: Saving for short-term goals
+Undefined option encountered: More than $50,000
+Undefined option encountered: More than 20%
+Undefined option encountered: 5-10 years
+Undefined option encountered: Very high
+Undefined option encountered: Mutual Funds
+Undefined option encountered: Regularly
+Undefined option encountered: Hold
+Undefined option encountered: Buying a house
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: More than 10 years
+Undefined option encountered: High
+Undefined option encountered: Real Estate
+Undefined option encountered: A few times a year
+Undefined option encountered: Buy more
+Undefined option encountered: $1,000 - $10,000
+Undefined option encountered: 5-10%
+Undefined option encountered: 1-5 years
+Undefined option encountered: Moderate
+Undefined option encountered: Once a year
+Undefined option encountered: Hold
+Undefined option encountered: Buying a house
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: 5-10 years
+Undefined option encountered: Very high
+Undefined option encountered: Real Estate
+Undefined option encountered: A few times a year
+Undefined option encountered: Buy more
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: 1-5 years
+Undefined option encountered: Very high
+Undefined option encountered: Mutual Funds
+Undefined option encountered: Regularly
+Undefined option encountered: Hold
+Undefined option encountered: Buying a house
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: Less than 1 year
+Undefined option encountered: Moderate
+Undefined option encountered: Mutual Funds
+Undefined option encountered: Regularly
+Undefined option encountered: Hold
+Undefined option encountered: Buying a house
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: 5-10 years
+Undefined option encountered: Very high
+Undefined option encountered: Mutual Funds
+Undefined option encountered: A few times a year
+Undefined option encountered: Buy more
+Undefined option encountered: More than $50,000
+Undefined option encountered: 10-20%
+Undefined option encountered: 5-10 years
+Undefined option encountered: Very high
+Undefined option encountered: Mutual Funds
+Undefined option encountered: Once a year
+Undefined option encountered: Buy more
+Undefined option encountered: $10,000 - $50,000
+Undefined option encountered: More than 20%
+Undefined option encountered: 1-5 years
+Undefined option encountered: Very high
+Undefined option encountered: Mutual Funds
+Undefined option encountered: Regularly
+Undefined option encountered: Buy more
